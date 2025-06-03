@@ -1,0 +1,12 @@
+flask==2.3.3
+flask-cors==4.0.0
+torch>=2.2.0
+transformers>=4.35.0
+phonemizer==3.2.1
+Levenshtein==0.23.0
+soundfile==0.12.1
+gtts==2.4.0
+pydub==0.25.1
+numpy>=1.24.0
+scipy>=1.11.0 
+gunicorn
